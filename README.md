@@ -1,5 +1,5 @@
 ## GlassifyMe
-Try on any (cropped) pair of spectacles and sunglasses in real time!
+Try on any (cropped) pair of spectacles and sunglasses in real time with just the photo!
 
 This is my pet computer vision project built using simple Python OpenCV, Numpy, and the Anaconda Library. The app allows 
 you to detect faces in real time using the Viola-Jones algorithim and the relevant haar-cascade. I used the same Haar-Casscade
