@@ -63,7 +63,7 @@ def drawGlasses(gray, frame):
 video_capture = cv2.VideoCapture(0)
 while True:
     # Import Spectacles
-    src = cv2.imread('lowry.jpg')
+    src = cv2.imread('lowry2.jpg')
 
     # values
     _ , lastframe = video_capture.read()
