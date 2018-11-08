@@ -5,7 +5,7 @@ This is my pet computer vision project built using simple Python OpenCV, Numpy, 
 you to detect faces in real time using the Viola-Jones algorithim and the relevant haar-cascade. I used the same Haar-Casscade
 Algorithims detailed by Viola and Jones back in 2001.
 
-![Screenshot](screenshot-1.png)
+![Screenshot](glasses_demo.gif)
 
 
 
