@@ -11,7 +11,7 @@ Algorithims detailed by Viola and Jones back in 2001.
 
 I wanted to scale the algorithim so not only to recognize the face, but to locate the pupils and place the spectacles over the face
 This required constant resize and dynamic photoshop of an object, such that no matter the distance from the camera the spectacles
-can be placed on the face in correct orientation. To do this, it requires dynamic photoshop, manipulation, and blending of the Alpha photoshop layer
+can be placed on the face in correct orientation. To do this, it requires dynamic manipulation, and blending of the Alpha photoshop layer
 which can also be done with numpy and some relatively simple logic:
 
 # 
