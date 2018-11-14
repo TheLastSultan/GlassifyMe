@@ -18,7 +18,7 @@ can be placed on the face in correct orientation. To do this, it requires dynami
 which can also be done with numpy and some relatively simple logic:
 
 # 
-![code]((https://github.com/TheLastSultan/GlassifyMe/blob/master/code-snippet1.png)
+![code](https://github.com/TheLastSultan/GlassifyMe/blob/master/code-snippet1.png)
 
 # 
 
@@ -27,4 +27,4 @@ Finially, I aimed to log the emotion of a user trying out certain pairs of spect
 and frowns. This was a complex task since I did not have many faces to train my recognition model on. However, as you can see
 below (big) smiles and (big) frowns can be picked up and logged by the algorithim!
 
-![Screenshot]((https://github.com/TheLastSultan/GlassifyMe/blob/master/screenshot-2.jpg)
+![Screenshot](https://github.com/TheLastSultan/GlassifyMe/blob/master/screenshot-2.jpg)
